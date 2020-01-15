@@ -1,4 +1,4 @@
-require rela
+
 class TicTacToe
   
 WIN_COMBINATIONS = [
