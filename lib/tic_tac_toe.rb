@@ -1,4 +1,4 @@
-require rela
+
 class TicTacToe
   
 WIN_COMBINATIONS = [
@@ -129,8 +129,7 @@ def play
   end
 end
 end
-game = TicTacToe.new
-game.play
+
 
 
 
